@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Muhaiyuddin</h1>
+<h1 align="center">Hi 👋, I'm Muhaiyuddin Sabir</h1>
 
 😄 I am a PhD Scholar at **IIT Madras** with deep expertise in computational mechanics and materials modeling, particularly in the **finite element method and computational plasticity**.
 
